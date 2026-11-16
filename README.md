@@ -98,5 +98,5 @@ Any vendor, including a sole proprietor listed under their own name, can correct
 
 ```
 The Runup. Agent Bookability Index: NYC event vendors and NYC Event Price Index, release 2026-11.
-https://index.therunup.ai/ (data: https://github.com/therunup/nyc-event-vendor-index). CC BY 4.0.
+https://index.therunup.ai/ (data: https://github.com/therunup-open/nyc-event-vendor-index). CC BY 4.0.
 ```
