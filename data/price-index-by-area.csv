@@ -1,0 +1,74 @@
+category,area,vendors,low_quartile,median,high_quartile
+Photographers,Manhattan,173,2250,3600,6000
+Photographers,Brooklyn,165,2100,3500,6000
+Photographers,Queens,162,2200,3500,6000
+Photographers,The Bronx,155,2500,3600,6000
+Photographers,Staten Island,155,2500,3600,6000
+Photographers,Long Island,110,2150,3500,6000
+Photographers,Westchester,82,2700,3850,7000
+Photographers,North Jersey,199,2000,3500,5000
+Photographers,Central Jersey,194,2390,3500,5080
+Caterers,Manhattan,8,320,1230,3380
+Caterers,Brooklyn,9,350,550,3250
+Caterers,Long Island,9,190,480,1680
+Caterers,North Jersey,10,100,620,1140
+Caterers,Central Jersey,10,100,420,1140
+Florists,Manhattan,21,1120,4000,7750
+Florists,Brooklyn,22,1500,5000,8880
+Florists,Queens,19,1500,4000,8500
+Florists,The Bronx,17,1120,4000,7750
+Florists,Staten Island,16,940,4500,8120
+Florists,Long Island,12,3500,5000,7750
+Florists,North Jersey,15,1550,4000,8000
+Florists,Central Jersey,16,1720,3750,7750
+Planners and coordinators,Manhattan,23,2500,4500,18500
+Planners and coordinators,Brooklyn,24,2500,4880,17620
+Planners and coordinators,Queens,21,2700,5250,19120
+Planners and coordinators,The Bronx,21,2700,5250,19120
+Planners and coordinators,Staten Island,22,2570,4880,18810
+Planners and coordinators,Long Island,15,3500,12500,19750
+Planners and coordinators,Westchester,12,3120,11250,19940
+Planners and coordinators,North Jersey,19,1800,3000,15000
+Planners and coordinators,Central Jersey,19,1800,3000,15000
+DJs,Manhattan,34,1200,2150,3000
+DJs,Brooklyn,32,1200,2150,3000
+DJs,Queens,32,1200,2050,2900
+DJs,The Bronx,32,1200,2150,2900
+DJs,Staten Island,31,1200,2100,3000
+DJs,Long Island,37,1200,2000,2800
+DJs,Westchester,27,1200,2300,3000
+DJs,North Jersey,57,1280,2000,3000
+DJs,Central Jersey,50,1290,2250,3000
+Videographers,Manhattan,20,1890,2750,4950
+Videographers,Brooklyn,20,2000,2750,4950
+Videographers,Queens,19,2000,3000,5000
+Videographers,The Bronx,19,2000,3000,5000
+Videographers,Staten Island,19,2000,3000,5000
+Videographers,Long Island,16,1850,2750,5000
+Videographers,Westchester,11,1800,2400,3000
+Videographers,North Jersey,20,1220,2420,4950
+Videographers,Central Jersey,19,1300,2450,5000
+Hair and makeup,Manhattan,16,580,1250,1650
+Hair and makeup,Brooklyn,14,840,1330,1710
+Hair and makeup,Queens,13,780,1410,1720
+Hair and makeup,The Bronx,12,710,1330,1650
+Hair and makeup,Staten Island,12,710,1330,1650
+Hair and makeup,Long Island,9,780,1410,1620
+Hair and makeup,North Jersey,13,520,900,1500
+Hair and makeup,Central Jersey,11,650,1250,1500
+Cakes and desserts,Manhattan,12,200,320,920
+Cakes and desserts,Brooklyn,10,190,320,780
+Cakes and desserts,Queens,8,220,320,650
+Cakes and desserts,The Bronx,8,220,320,650
+Cakes and desserts,Staten Island,8,220,320,650
+Cakes and desserts,North Jersey,11,180,250,500
+Live bands,Manhattan,9,1690,3200,10000
+Photo booths,Manhattan,18,500,600,920
+Photo booths,Brooklyn,19,500,600,900
+Photo booths,Queens,19,500,600,900
+Photo booths,The Bronx,19,500,600,900
+Photo booths,Staten Island,18,500,600,920
+Photo booths,Long Island,17,520,650,940
+Photo booths,Westchester,11,450,700,1000
+Photo booths,North Jersey,24,450,600,860
+Photo booths,Central Jersey,23,450,650,950

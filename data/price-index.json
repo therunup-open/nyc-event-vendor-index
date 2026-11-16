@@ -1,0 +1,720 @@
+{
+ "answer": "The median starting price New York area event vendors publish for a whole event is $3,000 for photographers, $2,000 for DJs, $5,000 for florists, $3,500 for planners and coordinators, $600 for photo booths, $2,500 for videographers, $700 for caterers, $900 for hair and makeup, $350 for cakes and desserts and $3,200 for live bands (604 vendors' own published prices, November 2026).",
+ "path": "/prices/",
+ "title": "NYC Event Price Index: what event vendors charge (November 2026)",
+ "updated": "2026-11-13",
+ "sample_vendors": 604,
+ "unit": "starting price for a whole event, USD",
+ "by_category": [
+  {
+   "category": "Photographers",
+   "key": "photographers",
+   "path": "/nyc/photographers/",
+   "vendors": 317,
+   "low_quartile": 1800,
+   "median": 3000,
+   "high_quartile": 5000
+  },
+  {
+   "category": "Caterers",
+   "key": "caterers",
+   "path": "/nyc/caterers/",
+   "vendors": 25,
+   "low_quartile": 250,
+   "median": 700,
+   "high_quartile": 1840
+  },
+  {
+   "category": "Florists",
+   "key": "florists",
+   "path": "/nyc/florists/",
+   "vendors": 40,
+   "low_quartile": 1510,
+   "median": 5000,
+   "high_quartile": 8000
+  },
+  {
+   "category": "Planners and coordinators",
+   "key": "planners",
+   "path": "/nyc/planners/",
+   "vendors": 35,
+   "low_quartile": 2000,
+   "median": 3500,
+   "high_quartile": 12500
+  },
+  {
+   "category": "DJs",
+   "key": "djs",
+   "path": "/nyc/djs/",
+   "vendors": 74,
+   "low_quartile": 1200,
+   "median": 2000,
+   "high_quartile": 2600
+  },
+  {
+   "category": "Videographers",
+   "key": "videographers",
+   "path": "/nyc/videographers/",
+   "vendors": 29,
+   "low_quartile": 1650,
+   "median": 2500,
+   "high_quartile": 5000
+  },
+  {
+   "category": "Hair and makeup",
+   "key": "hair-and-makeup",
+   "path": "/nyc/hair-and-makeup/",
+   "vendors": 21,
+   "low_quartile": 500,
+   "median": 900,
+   "high_quartile": 1500
+  },
+  {
+   "category": "Cakes and desserts",
+   "key": "cakes-and-desserts",
+   "path": "/nyc/cakes-and-desserts/",
+   "vendors": 21,
+   "low_quartile": 200,
+   "median": 350,
+   "high_quartile": 850
+  },
+  {
+   "category": "Live bands",
+   "key": "bands",
+   "path": "/nyc/bands/",
+   "vendors": 11,
+   "low_quartile": 1570,
+   "median": 3200,
+   "high_quartile": 11000
+  },
+  {
+   "category": "Photo booths",
+   "key": "photo-booths",
+   "path": "/nyc/photo-booths/",
+   "vendors": 31,
+   "low_quartile": 450,
+   "median": 600,
+   "high_quartile": 800
+  }
+ ],
+ "by_area": [
+  {
+   "category": "Photographers",
+   "area": "Manhattan",
+   "vendors": 173,
+   "low_quartile": 2250,
+   "median": 3600,
+   "high_quartile": 6000
+  },
+  {
+   "category": "Photographers",
+   "area": "Brooklyn",
+   "vendors": 165,
+   "low_quartile": 2100,
+   "median": 3500,
+   "high_quartile": 6000
+  },
+  {
+   "category": "Photographers",
+   "area": "Queens",
+   "vendors": 162,
+   "low_quartile": 2200,
+   "median": 3500,
+   "high_quartile": 6000
+  },
+  {
+   "category": "Photographers",
+   "area": "The Bronx",
+   "vendors": 155,
+   "low_quartile": 2500,
+   "median": 3600,
+   "high_quartile": 6000
+  },
+  {
+   "category": "Photographers",
+   "area": "Staten Island",
+   "vendors": 155,
+   "low_quartile": 2500,
+   "median": 3600,
+   "high_quartile": 6000
+  },
+  {
+   "category": "Photographers",
+   "area": "Long Island",
+   "vendors": 110,
+   "low_quartile": 2150,
+   "median": 3500,
+   "high_quartile": 6000
+  },
+  {
+   "category": "Photographers",
+   "area": "Westchester",
+   "vendors": 82,
+   "low_quartile": 2700,
+   "median": 3850,
+   "high_quartile": 7000
+  },
+  {
+   "category": "Photographers",
+   "area": "North Jersey",
+   "vendors": 199,
+   "low_quartile": 2000,
+   "median": 3500,
+   "high_quartile": 5000
+  },
+  {
+   "category": "Photographers",
+   "area": "Central Jersey",
+   "vendors": 194,
+   "low_quartile": 2390,
+   "median": 3500,
+   "high_quartile": 5080
+  },
+  {
+   "category": "Caterers",
+   "area": "Manhattan",
+   "vendors": 8,
+   "low_quartile": 320,
+   "median": 1230,
+   "high_quartile": 3380
+  },
+  {
+   "category": "Caterers",
+   "area": "Brooklyn",
+   "vendors": 9,
+   "low_quartile": 350,
+   "median": 550,
+   "high_quartile": 3250
+  },
+  {
+   "category": "Caterers",
+   "area": "Long Island",
+   "vendors": 9,
+   "low_quartile": 190,
+   "median": 480,
+   "high_quartile": 1680
+  },
+  {
+   "category": "Caterers",
+   "area": "North Jersey",
+   "vendors": 10,
+   "low_quartile": 100,
+   "median": 620,
+   "high_quartile": 1140
+  },
+  {
+   "category": "Caterers",
+   "area": "Central Jersey",
+   "vendors": 10,
+   "low_quartile": 100,
+   "median": 420,
+   "high_quartile": 1140
+  },
+  {
+   "category": "Florists",
+   "area": "Manhattan",
+   "vendors": 21,
+   "low_quartile": 1120,
+   "median": 4000,
+   "high_quartile": 7750
+  },
+  {
+   "category": "Florists",
+   "area": "Brooklyn",
+   "vendors": 22,
+   "low_quartile": 1500,
+   "median": 5000,
+   "high_quartile": 8880
+  },
+  {
+   "category": "Florists",
+   "area": "Queens",
+   "vendors": 19,
+   "low_quartile": 1500,
+   "median": 4000,
+   "high_quartile": 8500
+  },
+  {
+   "category": "Florists",
+   "area": "The Bronx",
+   "vendors": 17,
+   "low_quartile": 1120,
+   "median": 4000,
+   "high_quartile": 7750
+  },
+  {
+   "category": "Florists",
+   "area": "Staten Island",
+   "vendors": 16,
+   "low_quartile": 940,
+   "median": 4500,
+   "high_quartile": 8120
+  },
+  {
+   "category": "Florists",
+   "area": "Long Island",
+   "vendors": 12,
+   "low_quartile": 3500,
+   "median": 5000,
+   "high_quartile": 7750
+  },
+  {
+   "category": "Florists",
+   "area": "North Jersey",
+   "vendors": 15,
+   "low_quartile": 1550,
+   "median": 4000,
+   "high_quartile": 8000
+  },
+  {
+   "category": "Florists",
+   "area": "Central Jersey",
+   "vendors": 16,
+   "low_quartile": 1720,
+   "median": 3750,
+   "high_quartile": 7750
+  },
+  {
+   "category": "Planners and coordinators",
+   "area": "Manhattan",
+   "vendors": 23,
+   "low_quartile": 2500,
+   "median": 4500,
+   "high_quartile": 18500
+  },
+  {
+   "category": "Planners and coordinators",
+   "area": "Brooklyn",
+   "vendors": 24,
+   "low_quartile": 2500,
+   "median": 4880,
+   "high_quartile": 17620
+  },
+  {
+   "category": "Planners and coordinators",
+   "area": "Queens",
+   "vendors": 21,
+   "low_quartile": 2700,
+   "median": 5250,
+   "high_quartile": 19120
+  },
+  {
+   "category": "Planners and coordinators",
+   "area": "The Bronx",
+   "vendors": 21,
+   "low_quartile": 2700,
+   "median": 5250,
+   "high_quartile": 19120
+  },
+  {
+   "category": "Planners and coordinators",
+   "area": "Staten Island",
+   "vendors": 22,
+   "low_quartile": 2570,
+   "median": 4880,
+   "high_quartile": 18810
+  },
+  {
+   "category": "Planners and coordinators",
+   "area": "Long Island",
+   "vendors": 15,
+   "low_quartile": 3500,
+   "median": 12500,
+   "high_quartile": 19750
+  },
+  {
+   "category": "Planners and coordinators",
+   "area": "Westchester",
+   "vendors": 12,
+   "low_quartile": 3120,
+   "median": 11250,
+   "high_quartile": 19940
+  },
+  {
+   "category": "Planners and coordinators",
+   "area": "North Jersey",
+   "vendors": 19,
+   "low_quartile": 1800,
+   "median": 3000,
+   "high_quartile": 15000
+  },
+  {
+   "category": "Planners and coordinators",
+   "area": "Central Jersey",
+   "vendors": 19,
+   "low_quartile": 1800,
+   "median": 3000,
+   "high_quartile": 15000
+  },
+  {
+   "category": "DJs",
+   "area": "Manhattan",
+   "vendors": 34,
+   "low_quartile": 1200,
+   "median": 2150,
+   "high_quartile": 3000
+  },
+  {
+   "category": "DJs",
+   "area": "Brooklyn",
+   "vendors": 32,
+   "low_quartile": 1200,
+   "median": 2150,
+   "high_quartile": 3000
+  },
+  {
+   "category": "DJs",
+   "area": "Queens",
+   "vendors": 32,
+   "low_quartile": 1200,
+   "median": 2050,
+   "high_quartile": 2900
+  },
+  {
+   "category": "DJs",
+   "area": "The Bronx",
+   "vendors": 32,
+   "low_quartile": 1200,
+   "median": 2150,
+   "high_quartile": 2900
+  },
+  {
+   "category": "DJs",
+   "area": "Staten Island",
+   "vendors": 31,
+   "low_quartile": 1200,
+   "median": 2100,
+   "high_quartile": 3000
+  },
+  {
+   "category": "DJs",
+   "area": "Long Island",
+   "vendors": 37,
+   "low_quartile": 1200,
+   "median": 2000,
+   "high_quartile": 2800
+  },
+  {
+   "category": "DJs",
+   "area": "Westchester",
+   "vendors": 27,
+   "low_quartile": 1200,
+   "median": 2300,
+   "high_quartile": 3000
+  },
+  {
+   "category": "DJs",
+   "area": "North Jersey",
+   "vendors": 57,
+   "low_quartile": 1280,
+   "median": 2000,
+   "high_quartile": 3000
+  },
+  {
+   "category": "DJs",
+   "area": "Central Jersey",
+   "vendors": 50,
+   "low_quartile": 1290,
+   "median": 2250,
+   "high_quartile": 3000
+  },
+  {
+   "category": "Videographers",
+   "area": "Manhattan",
+   "vendors": 20,
+   "low_quartile": 1890,
+   "median": 2750,
+   "high_quartile": 4950
+  },
+  {
+   "category": "Videographers",
+   "area": "Brooklyn",
+   "vendors": 20,
+   "low_quartile": 2000,
+   "median": 2750,
+   "high_quartile": 4950
+  },
+  {
+   "category": "Videographers",
+   "area": "Queens",
+   "vendors": 19,
+   "low_quartile": 2000,
+   "median": 3000,
+   "high_quartile": 5000
+  },
+  {
+   "category": "Videographers",
+   "area": "The Bronx",
+   "vendors": 19,
+   "low_quartile": 2000,
+   "median": 3000,
+   "high_quartile": 5000
+  },
+  {
+   "category": "Videographers",
+   "area": "Staten Island",
+   "vendors": 19,
+   "low_quartile": 2000,
+   "median": 3000,
+   "high_quartile": 5000
+  },
+  {
+   "category": "Videographers",
+   "area": "Long Island",
+   "vendors": 16,
+   "low_quartile": 1850,
+   "median": 2750,
+   "high_quartile": 5000
+  },
+  {
+   "category": "Videographers",
+   "area": "Westchester",
+   "vendors": 11,
+   "low_quartile": 1800,
+   "median": 2400,
+   "high_quartile": 3000
+  },
+  {
+   "category": "Videographers",
+   "area": "North Jersey",
+   "vendors": 20,
+   "low_quartile": 1220,
+   "median": 2420,
+   "high_quartile": 4950
+  },
+  {
+   "category": "Videographers",
+   "area": "Central Jersey",
+   "vendors": 19,
+   "low_quartile": 1300,
+   "median": 2450,
+   "high_quartile": 5000
+  },
+  {
+   "category": "Hair and makeup",
+   "area": "Manhattan",
+   "vendors": 16,
+   "low_quartile": 580,
+   "median": 1250,
+   "high_quartile": 1650
+  },
+  {
+   "category": "Hair and makeup",
+   "area": "Brooklyn",
+   "vendors": 14,
+   "low_quartile": 840,
+   "median": 1330,
+   "high_quartile": 1710
+  },
+  {
+   "category": "Hair and makeup",
+   "area": "Queens",
+   "vendors": 13,
+   "low_quartile": 780,
+   "median": 1410,
+   "high_quartile": 1720
+  },
+  {
+   "category": "Hair and makeup",
+   "area": "The Bronx",
+   "vendors": 12,
+   "low_quartile": 710,
+   "median": 1330,
+   "high_quartile": 1650
+  },
+  {
+   "category": "Hair and makeup",
+   "area": "Staten Island",
+   "vendors": 12,
+   "low_quartile": 710,
+   "median": 1330,
+   "high_quartile": 1650
+  },
+  {
+   "category": "Hair and makeup",
+   "area": "Long Island",
+   "vendors": 9,
+   "low_quartile": 780,
+   "median": 1410,
+   "high_quartile": 1620
+  },
+  {
+   "category": "Hair and makeup",
+   "area": "North Jersey",
+   "vendors": 13,
+   "low_quartile": 520,
+   "median": 900,
+   "high_quartile": 1500
+  },
+  {
+   "category": "Hair and makeup",
+   "area": "Central Jersey",
+   "vendors": 11,
+   "low_quartile": 650,
+   "median": 1250,
+   "high_quartile": 1500
+  },
+  {
+   "category": "Cakes and desserts",
+   "area": "Manhattan",
+   "vendors": 12,
+   "low_quartile": 200,
+   "median": 320,
+   "high_quartile": 920
+  },
+  {
+   "category": "Cakes and desserts",
+   "area": "Brooklyn",
+   "vendors": 10,
+   "low_quartile": 190,
+   "median": 320,
+   "high_quartile": 780
+  },
+  {
+   "category": "Cakes and desserts",
+   "area": "Queens",
+   "vendors": 8,
+   "low_quartile": 220,
+   "median": 320,
+   "high_quartile": 650
+  },
+  {
+   "category": "Cakes and desserts",
+   "area": "The Bronx",
+   "vendors": 8,
+   "low_quartile": 220,
+   "median": 320,
+   "high_quartile": 650
+  },
+  {
+   "category": "Cakes and desserts",
+   "area": "Staten Island",
+   "vendors": 8,
+   "low_quartile": 220,
+   "median": 320,
+   "high_quartile": 650
+  },
+  {
+   "category": "Cakes and desserts",
+   "area": "North Jersey",
+   "vendors": 11,
+   "low_quartile": 180,
+   "median": 250,
+   "high_quartile": 500
+  },
+  {
+   "category": "Live bands",
+   "area": "Manhattan",
+   "vendors": 9,
+   "low_quartile": 1690,
+   "median": 3200,
+   "high_quartile": 10000
+  },
+  {
+   "category": "Photo booths",
+   "area": "Manhattan",
+   "vendors": 18,
+   "low_quartile": 500,
+   "median": 600,
+   "high_quartile": 920
+  },
+  {
+   "category": "Photo booths",
+   "area": "Brooklyn",
+   "vendors": 19,
+   "low_quartile": 500,
+   "median": 600,
+   "high_quartile": 900
+  },
+  {
+   "category": "Photo booths",
+   "area": "Queens",
+   "vendors": 19,
+   "low_quartile": 500,
+   "median": 600,
+   "high_quartile": 900
+  },
+  {
+   "category": "Photo booths",
+   "area": "The Bronx",
+   "vendors": 19,
+   "low_quartile": 500,
+   "median": 600,
+   "high_quartile": 900
+  },
+  {
+   "category": "Photo booths",
+   "area": "Staten Island",
+   "vendors": 18,
+   "low_quartile": 500,
+   "median": 600,
+   "high_quartile": 920
+  },
+  {
+   "category": "Photo booths",
+   "area": "Long Island",
+   "vendors": 17,
+   "low_quartile": 520,
+   "median": 650,
+   "high_quartile": 940
+  },
+  {
+   "category": "Photo booths",
+   "area": "Westchester",
+   "vendors": 11,
+   "low_quartile": 450,
+   "median": 700,
+   "high_quartile": 1000
+  },
+  {
+   "category": "Photo booths",
+   "area": "North Jersey",
+   "vendors": 24,
+   "low_quartile": 450,
+   "median": 600,
+   "high_quartile": 860
+  },
+  {
+   "category": "Photo booths",
+   "area": "Central Jersey",
+   "vendors": 23,
+   "low_quartile": 450,
+   "median": 650,
+   "high_quartile": 950
+  }
+ ],
+ "per_unit": [
+  {
+   "category": "Photographers",
+   "unit": "per hour",
+   "vendors": 23,
+   "low_quartile": 300,
+   "median": 400,
+   "high_quartile": 420
+  },
+  {
+   "category": "Caterers",
+   "unit": "per guest",
+   "vendors": 87,
+   "low_quartile": 20,
+   "median": 30,
+   "high_quartile": 60
+  },
+  {
+   "category": "Hair and makeup",
+   "unit": "per person",
+   "vendors": 39,
+   "low_quartile": 140,
+   "median": 160,
+   "high_quartile": 250
+  },
+  {
+   "category": "Cakes and desserts",
+   "unit": "per serving",
+   "vendors": 20,
+   "low_quartile": 10,
+   "median": 10,
+   "high_quartile": 10
+  }
+ ]
+}
